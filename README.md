@@ -23,6 +23,8 @@ git clone https://github.com/BeagleBasset/MinimalMVP.git
 ```bash
 cd MinimalMVP
 ```
+Create and put miniaudio into ```deps``` folder
+
 ```bash
 make 
 ```
@@ -35,3 +37,4 @@ make
 ```q```     → Quit
 
 ```Space``` → Start/Stop
+
